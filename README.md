@@ -1,6 +1,6 @@
 # 	:wave::dolphin: Hao (Lily) Li 
-Welcome to my Github Profile 
-- Currently a rising junior at East Chapel Hill High School interested in pursing a career in biomedical engineering :stethoscope:
+Welcome to my GitHub Profile 
+- Currently a senior at East Chapel Hill High School interested in pursuing a career in biomedical engineering :stethoscope:
 - Love painting, making arts :paintbrush:, playing tennis 	:tennis:, eat/making food :cake:, travelling with my family :world_map:, doing lab works :lab_coat:, volunteering, and trying new tools
 
 ## :woman_scientist: All About Me
@@ -9,8 +9,8 @@ Welcome to my Github Profile
 - :seedling: &nbsp; Exploring new technologies and passion in biomedical science and computer science. :dna:
 - 🎓 &nbsp; Working towards my high school degree through East Chapel Hill High School and Associate of Science through Durham Tech College.
 - 💼 &nbsp; Working experience with UNC RENCI Team. 
-- :sparkles: &nbsp; Learning more about coding experience, cybersecurity, Artificial Intelligence, and incorporate computer strategies with biology. :test_tube:
-- 	:heavy_check_mark: &nbsp; Experience with outreaching, graphic design using Canva for over 4 years, and have creative skills.
+- :sparkles: &nbsp; Learning more about coding experience, cybersecurity, Artificial Intelligence, and incorporating computer strategies with biology. :test_tube:
+- 	:heavy_check_mark: &nbsp; Experience with outreaching, and graphic design using Canva for over 4 years, and have creative skills.
 
 &nbsp;
 <h3> 🛠 &nbsp;My Abilities</h3>
